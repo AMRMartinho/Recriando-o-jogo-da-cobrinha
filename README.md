@@ -1,2 +1,2 @@
-# Recriando-o-jogo-da-cobrinha
+# Recriando_o_jogo_da_cobrinha
 Com JavaScript
